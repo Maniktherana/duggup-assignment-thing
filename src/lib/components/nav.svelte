@@ -127,7 +127,7 @@
 			<DropdownMenu.Trigger>
 				<div class="flex flex-row justify-center items-center gap-2">
 					<img src="avatar1.jpeg" alt="avatar" class="w-12 h-12 rounded-full border boder-black" />
-					<span class="text-lg font-light">Kirshna Kiran</span>
+					<span class="text-lg font-light text-[#4D4D4D]">Kirshna Kiran</span>
 					<svg
 						width="10"
 						height="6"
