@@ -1,38 +1,30 @@
-# create-svelte
+# Duggup Assignment
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+I saw [this tweet](https://x.com/arpit_bhayani/status/1765230815964024865?s=20) and decided to try it out.
 
-## Creating a project
+## Tech Stack
 
-If you're seeing this, you've probably already done this step. Congrats!
+- SvelteKit
+- TailwindCSS
+- [Shadcn Svelte](https://www.shadcn-svelte.com/)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Installation
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. Clone this repository
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+git clone https://github.com/Maniktherana/duggup-assignment-thing
 ```
 
-## Building
-
-To create a production version of your app:
+2. Install dependencies
 
 ```bash
-npm run build
+cd duggup-assignment-thing
+pnpm install
 ```
 
-You can preview the production build with `npm run preview`.
+3. Run and view results on `http://localhost:5173/`
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+pnpm run dev
+```
