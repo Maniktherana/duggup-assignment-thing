@@ -4,7 +4,7 @@
 </script>
 
 <nav class="flex flex-row justify-between items-center w-full max-w-screen-2xl py-2">
-	<div class="flex flex-row justify-start items-center gap-3 cursor-pointer">
+	<a href="/" class="flex flex-row justify-start items-center gap-3 cursor-pointer">
 		<img src="/logo1.png" alt="logo" class="w-7" />
 		<svg width="76" height="22" viewBox="0 0 76 22" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path
@@ -12,7 +12,7 @@
 				fill="#333333"
 			/>
 		</svg>
-	</div>
+	</a>
 	<div class="flex flex-row justify-between w-[620px] items-center gap-3">
 		<div class="flex flex-row justify-start items-center gap-1">
 			<Button variant="link" size="sm" class="gap-2 flex flex-row justify-center items-center">
