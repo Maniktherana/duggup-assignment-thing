@@ -14,7 +14,7 @@
 	</div>
 	<div class="flex flex-col justify-between items-center gap-5">
 		<div class="flex flex-row justify-between items-center gap-24">
-			<p class="max-w-screen-sm text-sm">
+			<p class="max-w-screen-sm text-sm text-[#141618]">
 				Co-Founder and CEO at Duggup - Social network for people in tech. Ex-Amazon Head of
 				Engineering. I write hot-takes on building a business, shipping delightful products and
 				accelerating product and career growth.

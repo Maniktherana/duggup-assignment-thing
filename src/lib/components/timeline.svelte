@@ -19,7 +19,7 @@
 			</div>
 			<!-- Content -->
 			<div class="flex flex-row justify-start items-center gap-10 flex-wrap ml-10">
-				<Card.Root class="rounded-xl max-w-[350px] shadow-sm">
+				<Card.Root class="rounded-xl max-w-[350px]">
 					<Card.Header class="m-0 p-0">
 						<img
 							src="/card1.jpeg"
@@ -34,7 +34,7 @@
 					</Card.Content>
 				</Card.Root>
 
-				<Card.Root class="rounded-xl max-w-[350px] shadow-sm">
+				<Card.Root class="rounded-xl max-w-[350px]">
 					<Card.Header class="m-0 p-0">
 						<img
 							src="/card2.jpeg"
@@ -65,7 +65,7 @@
 				</div>
 			</div>
 			<!-- Content -->
-			<Card.Root class="w-full rounded-xl shadow-sm ml-10">
+			<Card.Root class="w-full rounded-xl shadow-custom ml-10 border-none">
 				<Card.Header class="pb-0">
 					<h3 class="text-2xl font-bold">Co-Founder and CEO</h3>
 				</Card.Header>
@@ -87,7 +87,7 @@
 			</div>
 			<!-- Content -->
 			<div class="flex flex-row justify-start items-center gap-10 flex-wrap ml-10">
-				<Card.Root class="rounded-xl max-w-[350px] shadow-sm">
+				<Card.Root class="rounded-xl max-w-[350px]">
 					<Card.Header class="m-0 p-0">
 						<img
 							src="/card3.jpeg"
@@ -102,7 +102,7 @@
 					</Card.Content>
 				</Card.Root>
 
-				<Card.Root class="rounded-xl max-w-[350px] shadow-sm">
+				<Card.Root class="rounded-xl max-w-[350px]">
 					<Card.Header class="m-0 p-0">
 						<img
 							src="/card4.png"
@@ -133,7 +133,7 @@
 				</div>
 			</div>
 			<!-- Content -->
-			<Card.Root class="w-full rounded-xl shadow-sm ml-10">
+			<Card.Root class="w-full rounded-xl shadow-custom ml-10 border-none">
 				<Card.Header class="pb-0">
 					<h3 class="text-2xl font-bold">VP Engineering</h3>
 				</Card.Header>
