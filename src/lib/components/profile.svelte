@@ -28,7 +28,7 @@
 		<div class="w-full flex flex-row justify-between items-center">
 			<Button variant="default">Following</Button>
 			<div class="flex flex-row items-center">
-				<a href="/" target="_blank">
+				<a href="https://manikrana.dev" target="_blank">
 					<Button variant="link" size="sm" class="gap-2">
 						<p>My website</p>
 						<svg
